@@ -1,16 +1,14 @@
-## Hi there 👋
+## 📌Apresentação 📌 ##
 
-<!--
-**DiamantinoPedroDKM/DiamantinoPedroDKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖💻 Desenvolvedor Júnior de Java em evolução, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO), aplicando conceitos como modularização, separação de responsabilidades e organização estruturada de código.
+Atualmente em formação Full Stack, com foco na integração entre front-end e back-end, compreendendo o ciclo de desenvolvimento de aplicações e boas práticas de versionamento e organização de projetos.
+Mesmo em nível iniciante, já atuo com:
+☕ Java – Estruturação de sistemas, manipulação de arquivos e ficheiros, coleções, tratamento de exceções e lógica de negócios.
+🌐 HTML5 – Estruturação semântica e organização de interfaces web.
+🎨 CSS3 – Estilização, responsividade e organização visual de layouts.
+⚙️ C – Programação procedural, estruturas de controle, ponteiros e fundamentos de baixo nível.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Java  
+🌐 HTML5  
+🎨 CSS3  
+⚙️ C
