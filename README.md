@@ -1,13 +1,13 @@
 ### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
 <div align="center">
-  <h1>• Olá, eu sou o Diamantino Pedro! 👋</h1>
+  <h1><i>• Olá, eu sou o Diamantino! 👋</i></h1>
   <p>Desenvolvedor Java em evolução | Estudante Full Stack</p>
 </div>
 
 ### 📌 Apresentação:
-🤖💻 Sou um ** Desenvolvedor Java Júnior em evolução **, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO), aplicando conceitos como modularização, separação de responsabilidades e organização estruturada de código.
-Atualmente em formação Full Stack, com foco na integração entre front-end e back-end, compreendendo o ciclo de desenvolvimento de aplicações e boas práticas de versionamento e organização de projetos.
+🤖💻 Sou um **Desenvolvedor Java Júnior em evolução**, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO), aplicando conceitos como modularização, separação de responsabilidades e organização estruturada de código.
+Atualmente em formação Full Stack, com foco na integração entre **Front-End** e **Back-End**, compreendendo o ciclo de desenvolvimento de aplicações e boas práticas de versionamento e organização de projetos.
 
 ### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
@@ -19,7 +19,6 @@ Atualmente em formação Full Stack, com foco na integração entre front-end e 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </div>
-
 <br>
 
 > **☕ Java:** Estruturação de sistemas, manipulação de arquivos/ficheiros, coleções, tratamento de exceções e lógica de negócios.
