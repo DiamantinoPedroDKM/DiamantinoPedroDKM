@@ -5,13 +5,13 @@
   <p>Desenvolvedor Java em evolução | Estudante Full Stack</p>
 </div>
 
-### 📌 Apresentação
-🤖💻 Sou um # Desenvolvedor Java Júnior em evolução #, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO), aplicando conceitos como modularização, separação de responsabilidades e organização estruturada de código.
+### 📌 Apresentação:
+🤖💻 Sou um ** Desenvolvedor Java Júnior em evolução **, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO), aplicando conceitos como modularização, separação de responsabilidades e organização estruturada de código.
 Atualmente em formação Full Stack, com foco na integração entre front-end e back-end, compreendendo o ciclo de desenvolvimento de aplicações e boas práticas de versionamento e organização de projetos.
 
 ### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas:
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
