@@ -1,3 +1,5 @@
+###. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+
 <div align="center">
   <h1>• Olá, eu sou o Diamantino Pedro! 👋</h1>
   <p><i>Desenvolvedor Java em evolução | Estudante Full Stack</i></p>
@@ -7,7 +9,7 @@
 🤖💻 Sou um Desenvolvedor Java em evolução, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO), aplicando conceitos como modularização, separação de responsabilidades e organização estruturada de código.
 Atualmente em formação Full Stack, com foco na integração entre front-end e back-end, compreendendo o ciclo de desenvolvimento de aplicações e boas práticas de versionamento e organização de projetos.
 
-. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+###. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -21,7 +23,9 @@ Atualmente em formação Full Stack, com foco na integração entre front-end e 
 <br>
 
 > **☕ Java:** Estruturação de sistemas, manipulação de arquivos/ficheiros, coleções, tratamento de exceções e lógica de negócios.
+
 > **🌐 HTML5 & 🎨 CSS3:** Estruturação semântica, responsividade e organização visual de layouts.
+
 > **⚙️ C:** Fundamentos de baixo nível, ponteiros e estruturas de controle. Menor domínio.
 
-. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+###. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
