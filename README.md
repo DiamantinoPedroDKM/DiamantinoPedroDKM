@@ -1,4 +1,4 @@
-### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
 <div align="center">
   <h1><i>• Olá, eu sou o Diamantino! 👋</i></h1>
@@ -9,7 +9,7 @@
 🤖💻 Sou um **Desenvolvedor Java Júnior em evolução**, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO) e Procedimento Procedural.
 Atualmente, com o Full Stack em formação, com foco na integração entre **Front-End** e **Back-End**. Porém, ainda iniciante e com muito a aprender com o tempo.
 
-### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _.
 
 ### 🛠️ Tecnologias e Ferramentas:
 
@@ -28,9 +28,3 @@ Atualmente, com o Full Stack em formação, com foco na integração entre **Fro
 > **⚙️ C:** Fundamentos de baixo nível. **Menor domínio**.
 
 ### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
-
-<div align="center">
-  <a href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  </a>
-</div>
