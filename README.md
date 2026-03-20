@@ -7,7 +7,8 @@
 
 ### 📌 Apresentação:
 🤖💻 Sou um **Desenvolvedor Java Júnior em evolução**, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO) e Procedimento Procedural.
-Atualmente, com o Full Stack em formação, com foco na integração entre **Front-End** e **Back-End**. Porém, ainda iniciante e com muito a aprender com o tempo.
+
+Atualmente, com o Full Stack em formação, possuo foco na integração entre **Front-End** e **Back-End**. Porém, ainda iniciante e com muito a aprender com o tempo.
 
 ### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _.
 
