@@ -2,12 +2,12 @@
 
 <div align="center">
   <h1><i>• Olá, eu sou o Diamantino! 👋</i></h1>
-  <p>Desenvolvedor Java em evolução | Estudante Full Stack</p>
+  <p>Desenvolvedor Java em evolução | Estudante </p>
 </div>
 
 ### 📌 Apresentação:
-🤖💻 Sou um **Desenvolvedor Java Júnior em evolução**, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO), aplicando conceitos como modularização, separação de responsabilidades e organização estruturada de código.
-Atualmente em formação Full Stack, com foco na integração entre **Front-End** e **Back-End**, compreendendo o ciclo de desenvolvimento de aplicações e boas práticas de versionamento e organização de projetos.
+🤖💻 Sou um **Desenvolvedor Java Júnior em evolução**, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO) e Procedimento Procedural.
+Atualmente, com o Full Stack em formação, com foco na integração entre **Front-End** e **Back-End**. Porém, ainda iniciante e com muito a aprender com o tempo.
 
 ### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
@@ -21,11 +21,11 @@ Atualmente em formação Full Stack, com foco na integração entre **Front-End*
 </div>
 <br>
 
-> **☕ Java:** Estruturação de sistemas, manipulação de arquivos/ficheiros, coleções, tratamento de exceções. **MAIOR DOMÍNIO.**
+> **☕ Java:** Nível: **MAIOR DOMÍNIO.**
 
-> **🌐 HTML5 & 🎨 CSS3:** Estruturação semântica, responsividade e organização visual de layouts.
+> **🌐 HTML5 & 🎨 CSS3:** Nível: **Intermediário**.
 
-> **⚙️ C:** Fundamentos de baixo nível, ponteiros e estruturas de controle. **Menor domínio**.
+> **⚙️ C:** Fundamentos de baixo nível. **Menor domínio**.
 
 ### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
