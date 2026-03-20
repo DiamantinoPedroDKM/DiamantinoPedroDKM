@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1><i>• Olá, eu sou o Diamantino! 👋</i></h1>
-  <p>Desenvolvedor Java em evolução | Estudante </p>
+  <p>Desenvolvedor Java em evolução | <b> Estudante </b> </p>
 </div>
 
 ### 📌 Apresentação:
@@ -27,4 +27,4 @@ Atualmente, com o Full Stack em formação, com foco na integração entre **Fro
 
 > **⚙️ C:** Fundamentos de baixo nível. **Menor domínio**.
 
-### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
