@@ -1,4 +1,4 @@
-### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
 <div align="center">
   <h1><i>• Olá, eu sou o Diamantino! 👋</i></h1>
@@ -6,11 +6,11 @@
 </div>
 
 ### 📌 Apresentação:
-🤖💻 Sou um **Desenvolvedor Java Júnior em evolução**, com conhecimento em paradigma procedural e Programação Orientada a Objetos (POO) e Procedimento Procedural.
+🤖💻 Sou um **Desenvolvedor Java Júnior em evolução**, com conhecimento em Programação Orientada a Objetos (POO) e Paradigma Procedural.
 
 Atualmente, com o Full Stack em formação, possuo foco na integração entre **Front-End** e **Back-End**. Porém, ainda iniciante e com muito a aprender com o tempo.
 
-### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _.
+### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
 
 ### 🛠️ Tecnologias e Ferramentas:
 
@@ -28,4 +28,4 @@ Atualmente, com o Full Stack em formação, possuo foco na integração entre **
 
 > **⚙️ C:** Fundamentos de baixo nível. **Menor domínio**.
 
-### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
+### . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .
